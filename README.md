@@ -48,11 +48,11 @@ For the 2018 date set, we got similar performance results.  For the 2018 data se
 
 <img width="293" alt="Screen Shot 2021-10-23 at 11 41 05 PM" src="https://user-images.githubusercontent.com/87248687/138579579-0a355566-0a48-48fe-9ce4-80e1375666f1.png">
 
-With the refractored code, it ran through the 2018 data in .05078 seconds.  A screenshot can be seen below.
+With the refactored code, it ran through the 2018 data in .05078 seconds.  A screenshot can be seen below.
 
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/87248687/138579644-61bd0d87-9062-4364-b3a0-9e8b4ff2d914.png)
 
-In both scenerios, the refractored script appears to be almost 5 times as fast as the original code.
+In both scenerios, the refactored script appears to be almost 5 times as fast as the original code.
 
 ## Summary
 
