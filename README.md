@@ -1,5 +1,4 @@
 # Stock Analysis
-# VBA of Wall Street
 
 ## Overview of Project
 
